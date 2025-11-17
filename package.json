@@ -12,6 +12,7 @@
   "packageManager": "pnpm@10.12.1",
   "publishConfig": {
     "access": "public",
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://registry.npmjs.org/",
+    "publishBranch": "main"
   }
 }
